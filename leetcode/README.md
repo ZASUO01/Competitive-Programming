@@ -2,8 +2,10 @@
 
 ## Study Plans
 
-### [LeetCode 75](/leet-code-75)
-- [1768 | Merge Strings Alternately](/leet-code-75/1071.cpp)
-- [1431 | Kids With Greatest Number of Candies](/leet-code-75/1431.cpp)
+[root]: /leetcode 
+
+### [LeetCode 75]([root]/leet-code-75)
+- [1768 | Merge Strings Alternately]([root]/leet-code-75/1071.cpp)
+- [1431 | Kids With Greatest Number of Candies]([root]/leet-code-75/1431.cpp)
 
 
