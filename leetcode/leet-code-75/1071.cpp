@@ -7,29 +7,7 @@ using namespace std;
 
 class Solution {
 public:
-  string gcdOfStrings(string str1, string str2) {
-    queue<char> q;
-    int size = MIN(str1.size(), str2.size());
-
-    for (int i = 0; i < size; i++) {
-      if (str1[i] == str2[i]) {
-        if (q.front() == str1[i]) {
-          q.pop();
-        }
-        q.push(str1[i]);
-      } else {
-        break;
-      }
-    }
-
-    string minStr = "";
-    for (int i = 0; i < q.size(); i++) {
-      minStr += q.front();
-      q.pop();
-    }
-
-    return minStr;
-  }
+  string gcdOfStrings(string str1, string str2) { return ""; }
 };
 
 int main() {

@@ -8,4 +8,6 @@
 - [283 | Move Zeroes](/leetcode/leet-code-75/283.cpp)
 - [392 | Is Subsequence](/leetcode/leet-code-75/283.cpp)
 - [11 | Container With Most Water](/leetcode/leet-code-75/11.cpp)
-
+- [1679 | Max Number of K-Sum Pairs](/leetcode/leet-code-75/1679.cpp)
+- [643 | Maximum Average Subarray I](/leetcode/leet-code-75/643.cpp)
+- [1456 | Maximum Number Of Vowels in a Substring of Given Length](/leetcode/leet-code-75/1456.cpp) 
